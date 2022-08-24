@@ -1,5 +1,7 @@
 
 # yalauddin.com
+## Preview
+![image](https://user-images.githubusercontent.com/88940506/186541636-f4f81dfe-6d22-4ff2-8d3f-082b28d94b03.png)
 
 ## About
 
@@ -7,8 +9,7 @@ This is a personal portfolio website built using React, Next, and Tailwind CSS\
 \
 Fully optimized for mobile 📱 and desktop 💻 devices. \
 https://yalauddin.com
-## Screenshot
-![image](https://user-images.githubusercontent.com/88940506/186541636-f4f81dfe-6d22-4ff2-8d3f-082b28d94b03.png)
+
 
 ## Run Locally
 
