@@ -15,13 +15,15 @@ export default function Portfolio() {
         </div>
 
         <div className="flex flex-col space-y-10 md:flex-row justify-center items-center md:space-x-10 md:space-y-0">
-        <div className="flex justify-center w-[180px] h-[45px] rounded-md items-center shadow-xl select-none bg-[#BA5A62]">
+        <a target='_blank' rel="noreferrer" href='https://github.com/yusufalauddin/Portfolio-Website'>
+        <div className="flex justify-center w-[180px] h-[45px] rounded-md items-center shadow-xl select-none bg-[#BA5A62] hover:scale-105 ease in duration-500 cursor-pointer">
             <div className="flex justify-center text-center items-center"> 
-
-            <p className="font-bold text-white">Code (coming soon)</p>
-
+            
+            <p className="font-bold text-white">Code</p>
+            
             </div>
         </div>
+        </a>
         <Link href='/#main'>
         <div className="flex justify-center w-[180px] h-[45px] rounded-md items-center shadow-xl select-none bg-[#BA5A62] hover:scale-105 ease in duration-500 cursor-pointer">
             <div className="flex justify-center text-center items-center"> 
