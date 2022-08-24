@@ -1,7 +1,6 @@
 import Image from 'next/image'
 import Link from 'next/link'
 import {AiOutlineLinkedin,AiOutlineGithub,AiOutlineMail} from 'react-icons/ai'
-
 export default function Main() {
     return <div id='main' className="top-0 pt-16 mx-auto w-full h-screen  text-center flex items-center justify-center flex-col space-y-3 md:space-y-0 md:flex-row text-black select-none md:space-x-10">
         <div>
