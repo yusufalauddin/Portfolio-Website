@@ -8,7 +8,8 @@ module.exports = {
     extend: {
       backgroundImage:{
         'smart-password': "url('/src/smartpassword.png')",
-        'yalauddin-logo': "url('/src/transparentyalauddin2.png')"
+        'yalauddin-logo': "url('/src/transparentyalauddin2.png')",
+        'chat-app': "url('/src/javachatapp.png')"
       }
     },
   },
