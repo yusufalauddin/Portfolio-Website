@@ -19,7 +19,9 @@ export default function Navbar() {
         <div className="fixed w-full h-[100px] shadow-xl z-[100] bg-[#CF5260]">
             <div className="flex justify-between items-center w-full h-full px-2">
             
-            <Image src='/src/logo.png' height='100' width='250'></Image>
+            <Link href='/'>
+            <Image className='cursor-pointer' src='/src/logo.png' height='100' width='250'></Image>
+            </Link>
 
             <div>
                 <ul className="hidden md:flex space-x-4 select-none">
