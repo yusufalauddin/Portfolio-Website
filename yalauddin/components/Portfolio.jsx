@@ -5,7 +5,7 @@ export default function Portfolio() {
     return <div className="py-8">
         <div className="flex justify-center w-full h-screen text-black">
         <div className="flex justify-center items-center flex-col space-y-5">
-        <div className="flex flex-col items-center mx-auto">
+        <div className="flex flex-col items-center mx-auto -top-3.5">
             <h1 className="antialiased font-bold font-sans">Portfolio</h1>
             <p>React.js / Next.js / Tailwind CSS</p>
         </div>
