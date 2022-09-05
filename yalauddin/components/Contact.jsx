@@ -9,7 +9,7 @@ export default function Contact() {
 
             <div className="flex items-center justify-center space-x-4 mx-auto">
                 <AiOutlineMail className="sm:h-[50px] sm:w-[50px]"></AiOutlineMail>
-                <p className="text-[12px] sm:text-[24px]">business@yalauddin.com</p>
+                <p className="text-[12px] sm:text-[24px]">theyusufalauddin@gmail.com</p>
             </div>
             
          </div>

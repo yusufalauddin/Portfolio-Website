@@ -19,7 +19,7 @@ export default function Portfolio() {
         <div className="flex justify-center w-[180px] h-[45px] rounded-md items-center shadow-xl select-none bg-[#BA5A62] hover:scale-105 ease in duration-500 cursor-pointer">
             <div className="flex justify-center text-center items-center"> 
             
-            <p className="font-bold text-white">Code</p>
+            <p className="font-bold text-white">Github</p>
             
             </div>
         </div>
