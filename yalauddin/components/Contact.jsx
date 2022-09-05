@@ -12,11 +12,6 @@ export default function Contact() {
                 <p className="text-[12px] sm:text-[24px]">business@yalauddin.com</p>
             </div>
             
-            <div className="flex items-center text-center justify-center space-x-4 mx-auto">
-                <FaDiscord className="sm:h-[50px] sm:w-[50px]"></FaDiscord>
-                <p className="sm:text-[24px]">YusufA#3340</p>
-            </div>
-
          </div>
 
 
